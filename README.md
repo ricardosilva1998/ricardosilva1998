@@ -45,7 +45,7 @@ I am an Computer Science Bachelors Finalist pursuing Front-end Development. Alwa
 
 
 ### Contact Me
-|  <a href="https://github.com/rkasale28"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/engineer.png" width="150px" height="150px" /></a> |
+|  <a href="https://github.com/rkasale28"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/engineer.png" width="150px" height="150px" align="center" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |📞 *+351 964270700*|
 |✉️ *ricardomrbs1998@gmail.com*|
