@@ -40,7 +40,7 @@ I am an Computer Science Bachelors Finalist pursuing Front-end Development. Alwa
 
 
 <a href="https://github.com/ricardosilva1998">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosilva1998&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosilva1998&theme=radical&hide=glsl,python" />
 </a>
 
 
