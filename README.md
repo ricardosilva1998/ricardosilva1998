@@ -41,12 +41,4 @@ I am an Computer Science Bachelors Finalist pursuing Front-end Development. Alwa
 
 <br>
 
-
-### Contact Me
-|  <a href="https://github.com/rkasale28"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/engineer.png" width="150px" height="150px" /></a> |
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
-||
-
-
-
 ⭐️ From [ricardosilva1998](https://github.com/ricardosilva1998)
