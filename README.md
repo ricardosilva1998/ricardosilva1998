@@ -49,7 +49,24 @@ I am an Computer Science Bachelors Finalist pursuing Front-end Development. Alwa
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |📞 *+351 964270700*|
 |✉️ *ricardomrbs1998@gmail.com*|
-|<a href="https://www.rohitkasale.tech/"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/icons8-website-96.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/ricardosilva98/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://github.com/ricardosilva1998"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://www.hackerrank.com/rohit_kasale?hr_r=1"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/icons8-hackerrank-512.png" width="32px" height="32px"></a> &nbsp; &nbsp; |
+|<a href="https://twitter.com/shreyaaaaaaaaa_">
+  <img align="left" alt="Shreya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/shreyachatterjee05/">
+  <img align="left" alt="Shreya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Shreya549">
+  <img align="left" alt="Shreya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/the_strange_concoction/">
+  <img align="left" alt="Shreya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/shreya.chatterjee.31105674">
+  <img align="left" alt="Shreya's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.hackerrank.com/shreyachatterje2">
+  <img align="left" alt="Shreya's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a> |
 |<a href="https://github.com/Daggy1234"> <img src="https://komarev.com/ghpvc/?username=Daggy1234&style=flat-square" /> </a>|
 
 ⭐️ From [ricardosilva1998](https://github.com/ricardosilva1998)
