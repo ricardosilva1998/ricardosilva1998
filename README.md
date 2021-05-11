@@ -2,7 +2,7 @@
 
 ### Contact Me
 📞 *+351 964270700* | ✉️ *ricardomrbs1998@gmail.com*
-<br>
+
 <br>
 <a href="https://www.linkedin.com/in/tiagojosejesus/"><img align="left" alt="Tiago | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" /></a>
   
@@ -11,7 +11,8 @@
 <a href="mailto:tiagojosepjesus@gmail.com"><img align="left" alt="Tiago | Gmail" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" /></a>
 
 <a href="https://discordapp.com/users/328061002870423552"><img align="left" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png" width="32px" height="26px"/></a>
-|✉️ *ricardomrbs1998@gmail.com*|
+<br>
+
 <img align="right" width="200" height="161" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="24px">
 
 I am an Computer Science Bachelors Finalist pursuing Front-end Development. Always willing to learn and implement. Proficient in Javascript, css, html. Have an experience in the fields of Web Development and Web Design, Android Development and Video Editing. <br /><br />
