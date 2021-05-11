@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there. I am Ricardo. 👋 </h1>
 
 ##  Contact Me :speech_balloon:
-[![Twitter Badge](https://img.shields.io/badge/-@ashwanisng-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ashwanisng)](https://twitter.com/R1C4RD0R6) [![Linkedin Badge](https://img.shields.io/badge/-ashwanisng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwanisng/)](https://www.linkedin.com/in/ricardosilva98/) [![Gmail Badge](https://img.shields.io/badge/-ashwanicena5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardomrbs1998@gmail.com)](mailto:ashwanicena5@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@ashwanisng-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/ashwanisng/)](https://www.instagram.com/r1c4rd0r6/)
+[![Twitter Badge](https://img.shields.io/badge/-@ashwanisng-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/R1C4RD0R6)](https://twitter.com/R1C4RD0R6) [![Linkedin Badge](https://img.shields.io/badge/-ashwanisng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardosilva1998/)](https://www.linkedin.com/in/ricardosilva98/) [![Gmail Badge](https://img.shields.io/badge/-ricardomrbs1998@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardomrbs1998@gmail.com)](mailto:ricardomrbs1998@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@ashwanisng-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/r1c4rd0r6/)](https://www.instagram.com/r1c4rd0r6/)
 
 <p align="center"> 
   Visitor count<br>
