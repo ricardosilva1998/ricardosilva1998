@@ -1,7 +1,8 @@
 <h1 align="center"> Hi there. I am Ricardo. 👋 </h1>
 
 ### Contact Me
-📞 *+351 964270700*
+📞 *+351 964270700* | ✉️ *ricardomrbs1998@gmail.com*
+<br>
 <a href="https://www.linkedin.com/in/tiagojosejesus/"><img align="left" alt="Tiago | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" /></a>
   
 <a href="https://twitter.com/tiagojosejesus"><img align="left" alt="Tiago | Twitter" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Twitter.svg" /></a>
