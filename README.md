@@ -22,22 +22,10 @@ I am an Computer Science Bachelors Finalist pursuing Front-end Development. Alwa
 ### Other Languages I know
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"><img src="https://img.shields.io/badge/-PHP-5466b8?style=flat&logo=php&logoColor=white" >
 
-### Stats
-<table>
-  <tr>
-    <td> :zero: Internships Completed </td>
-    <td> :four: Projects Completed </td>
-    <td>  :zero: Guided Projects  </td>
-    <td>  :zero: Virtual Internships </td>
-  </tr>
-  <tr>
-    <td>  :zero: Golden Badges  </td>
-    <td>  :zero: Skills Verified </td>
-    <td>  :five: Online Courses  </td>
-    <td>  :one::zero: Github Repos </td>
-  </tr>
-</table>
+## &#x1f4c8; GitHub Stats
+<img src="https://cdn.dicionariopopular.com/imagens/image-132.jpg" width="300px" height="195px" align="right"/>
 
+![Ricardo Silva's github stats](https://github-readme-stats.vercel.app/api?username=ricardosilva1998&show_icons=true&hide_border=true&theme=react)
 
 <br>
 
