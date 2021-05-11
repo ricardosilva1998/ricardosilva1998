@@ -49,13 +49,8 @@ I am an Computer Science Bachelors Finalist pursuing Front-end Development. Alwa
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |📞 *+351 964270700*|
 |✉️ *ricardomrbs1998@gmail.com*|
-<br>
-<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/super-kid.gif" alt="Super Kid">
-
-
-# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
-
-  <a href="https://www.linkedin.com/in/satyam-goyal26/">
+|<br>
+<a href="https://www.linkedin.com/in/satyam-goyal26/">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://twitter.com/SatYug26">
@@ -67,7 +62,6 @@ I am an Computer Science Bachelors Finalist pursuing Front-end Development. Alwa
   <a href="mailto:goyalsatyam8@gmail.com">
     <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
+<br><br>|
 
-
-<br><br>
 ⭐️ From [ricardosilva1998](https://github.com/ricardosilva1998)
