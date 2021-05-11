@@ -39,9 +39,12 @@ I am an Computer Science Bachelors Finalist pursuing Front-end Development. Alwa
 </table>
 
 
-<a href="https://github.com/ricardosilva1998">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosilva1998&theme=radical&hide=glsl,python" />
-</a>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosilva1998&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+
+
+<br>
 
 
 ### Contact Me
