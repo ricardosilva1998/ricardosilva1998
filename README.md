@@ -1,6 +1,6 @@
 ### Hi there. I am Ricardo. 👋
 |✉️ *ricardomrbs1998@gmail.com*|
-<img align="right" width="200" height="161" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="24px">
+<img align="right" width="200" height="161" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="24px">
 
 I am an Computer Science Bachelors Finalist pursuing Front-end Development. Always willing to learn and implement. Proficient in Javascript, css, html. Have an experience in the fields of Web Development and Web Design, Android Development and Video Editing. <br /><br />
 🤔 Looking for a job which would help me make </br>
