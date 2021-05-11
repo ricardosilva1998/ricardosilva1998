@@ -1,27 +1,26 @@
-### Hey Ricardo here 👋
+### Hi there. I am Ricardo. 👋
+*rohit.kasale@somaiya.edu \| rohitkasale28@gmail.com*
+<img align="right" width="200" height="161" src="https://github.com/rkasale28/rkasale28/blob/master/icons/avatar.jpg">
 
----
+I am an Undergraduate student pursuing B. Tech degree. Always willing to learn and implement. Proficient in Code Development. Able to debug. Have an experience in the fields of Web Development, Android Development and Database Handling. Also, interested in the field of Data Science. <br /><br />
+🤔 Looking for a job which would help me make most of my skills.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ricardosilva1998/ricardosilva1998/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
+&nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1i0rCJGIGzRTcf-Hq2k3_LZdGQvvdsu03/view)*
+&nbsp; &nbsp; |  &nbsp; &nbsp; *[View My Certificates](https://github.com/rkasale28/rkasale28/tree/master/Certificates)*
+<br />
 
-I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
- 
- 🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
- 
- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
- 
- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
- 
- 👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
- 
- 🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
- 
- 💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
-
-
-![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
-
-
----
+### Stats
+<table>
+  <tr>
+    <td> :three: Internships Completed </td>
+    <td> :six: Projects Completed </td>
+    <td>  :four: Guided Projects  </td>
+    <td>  :two: Virtual Internships </td>
+  </tr>
+  <tr>
+    <td>  :eight: Golden Badges  </td>
+    <td>  :one::zero: Skills Verified </td>
+    <td>  :seven: Online Courses  </td>
+    <td>  :two::six: Github Repos </td>
+  </tr>
+</table>
