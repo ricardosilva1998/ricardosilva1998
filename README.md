@@ -1,9 +1,9 @@
-### Hey Sourav here 👋
+### Hey Ricardo here 👋
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://raw.githubusercontent.com/ricardosilva1998/ricardosilva1998/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
