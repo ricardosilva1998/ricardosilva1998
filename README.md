@@ -1,4 +1,14 @@
 <h1 align="center"> Hi there. I am Ricardo. 👋 </h1>
+
+### Contact Me
+📞 *+351 964270700*
+<a href="https://www.linkedin.com/in/tiagojosejesus/"><img align="left" alt="Tiago | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" /></a>
+  
+<a href="https://twitter.com/tiagojosejesus"><img align="left" alt="Tiago | Twitter" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Twitter.svg" /></a>
+  
+<a href="mailto:tiagojosepjesus@gmail.com"><img align="left" alt="Tiago | Gmail" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" /></a>
+
+<a href="https://discordapp.com/users/328061002870423552"><img align="left" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png" width="32px" height="26px"/></a>
 |✉️ *ricardomrbs1998@gmail.com*|
 <img align="right" width="200" height="161" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="24px">
 
@@ -37,12 +47,8 @@ I am an Computer Science Bachelors Finalist pursuing Front-end Development. Alwa
 ### Contact Me
 |  <a href="https://github.com/rkasale28"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/engineer.png" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|📞 *+351 964270700*|
-|<a href="https://www.linkedin.com/in/pramod-kumar-4aa47616b/" target="blank">
-  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> </a> &nbsp; &nbsp; <a href="https://www.instagram.com/cyber_freak_21/" target="blank">
-  <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> </a> &nbsp; &nbsp; <a href="https://twitter.com/pramod2107" target="blank">
-  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> </a> &nbsp; &nbsp; <a href="https://medium.com/@pramodrana2107" target="blank">
-  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" /> </a> &nbsp; &nbsp;|
+||
+
 
 
 ⭐️ From [ricardosilva1998](https://github.com/ricardosilva1998)
