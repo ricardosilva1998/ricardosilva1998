@@ -4,7 +4,7 @@
 
 I am an Computer Science Bachelors Finalist pursuing React projects. Always willing to learn and implement. Proficient in Javascript, css, html. Have an experience in the fields of Web Development and Web Design, Android Development and Video Editing. <br /><br />
 🤔 Looking for a job which would help me make </br>
-    most of my skills and give me will to 
+    most of my skills and give me will to </br>
     get up and learn and become a better developer.
 
 &nbsp; &nbsp; *[View My CV](https://www.linkedin.com/in/ricardosilva98/)*
