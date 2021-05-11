@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there. I am Ricardo. 👋 </h1>
-<h2 align="center"> |✉️ *ricardomrbs1998@gmail.com*| </h2>
+|✉️ *ricardomrbs1998@gmail.com*|
 <img align="right" width="200" height="161" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="24px">
 
 I am an Computer Science Bachelors Finalist pursuing Front-end Development. Always willing to learn and implement. Proficient in Javascript, css, html. Have an experience in the fields of Web Development and Web Design, Android Development and Video Editing. <br /><br />
