@@ -49,7 +49,7 @@ I am an Computer Science Bachelors Finalist pursuing Front-end Development. Alwa
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |📞 *+351 964270700*|
 |✉️ *ricardomrbs1998@gmail.com*|
-|<a href="https://www.linkedin.com/in/satyam-goyal26/">
+|<br> <a href="https://www.linkedin.com/in/satyam-goyal26/">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://twitter.com/SatYug26">
