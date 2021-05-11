@@ -50,7 +50,7 @@ I am an Computer Science Bachelors Finalist pursuing Front-end Development. Alwa
 |📞 *+351 964270700*|
 |✉️ *ricardomrbs1998@gmail.com*|
 |<a href="https://twitter.com/shreyaaaaaaaaa_">
-  <img align="left" alt="Shreya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    <img align="left" alt="Shreya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons       /twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/shreyachatterjee05/">
   <img align="left" alt="Shreya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
