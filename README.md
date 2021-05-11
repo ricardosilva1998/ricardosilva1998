@@ -3,7 +3,7 @@
 <img align="right" width="200" height="161" src="https://github.com/rkasale28/rkasale28/blob/master/icons/avatar.jpg">
 
 I am an Computer Science Bachelors Finalist pursuing React projects. Always willing to learn and implement. Proficient in Javascript, css, html. Have an experience in the fields of Web Development and Web Design, Android Development and Video Editing. <br /><br />
-🤔 Looking for a job which would help me make 
+🤔 Looking for a job which would help me make </br>
     most of my skills and give me will to 
     get up and learn and become a better developer.
 
