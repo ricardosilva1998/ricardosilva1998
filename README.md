@@ -49,26 +49,25 @@ I am an Computer Science Bachelors Finalist pursuing Front-end Development. Alwa
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |📞 *+351 964270700*|
 |✉️ *ricardomrbs1998@gmail.com*|
-|<br> <br>
- <a href="https://twitter.com/shreyaaaaaaaaa_">
-  <img align="left" alt="Shreya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/shreyachatterjee05/">
-  <img align="left" alt="Shreya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/Shreya549">
-  <img align="left" alt="Shreya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/the_strange_concoction/">
-  <img align="left" alt="Shreya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/shreya.chatterjee.31105674">
-  <img align="left" alt="Shreya's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.hackerrank.com/shreyachatterje2">
-  <img align="left" alt="Shreya's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-<br><br>|
-|<a href="https://github.com/Daggy1234"> <img src="https://komarev.com/ghpvc/?username=Daggy1234&style=flat-square" /> </a>|
+<br>
+<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/super-kid.gif" alt="Super Kid">
 
+
+# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+
+  <a href="https://www.linkedin.com/in/satyam-goyal26/">
+    <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://twitter.com/SatYug26">
+    <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/satyu.26/">
+    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:goyalsatyam8@gmail.com">
+    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
+
+
+<br><br>
 ⭐️ From [ricardosilva1998](https://github.com/ricardosilva1998)
