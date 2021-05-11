@@ -11,6 +11,10 @@ I am an Computer Science Bachelors Finalist pursuing Front-end Development. Alwa
 &nbsp; &nbsp; |  &nbsp; &nbsp; *[View My Certificates](https://www.linkedin.com/in/ricardosilva98/)*
 <br />
 
+<a href="https://github.com/ricardosilva1998">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardosilva1998&layout=compact" />
+</a>
+
 ### Stats
 <table>
   <tr>
