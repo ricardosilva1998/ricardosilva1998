@@ -23,7 +23,7 @@ I am an Computer Science Bachelors Finalist pursuing Front-end Development. Alwa
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"><img src="https://img.shields.io/badge/-PHP-5466b8?style=flat&logo=php&logoColor=white" >
 
 ## &#x1f4c8; GitHub Stats
-<img src="https://cdn.dicionariopopular.com/imagens/image-132.jpg" width="300px" height="195px" align="right"/>
+<img src="https://miro.medium.com/max/480/0*tWkX7jycteZn1qbC.gif" width="300px" height="195px" align="right"/>
 
 ![Ricardo Silva's github stats](https://github-readme-stats.vercel.app/api?username=ricardosilva1998&show_icons=true&hide_border=true&theme=react)
 
