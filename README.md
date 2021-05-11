@@ -62,6 +62,6 @@ I am an Computer Science Bachelors Finalist pursuing Front-end Development. Alwa
   <a href="mailto:goyalsatyam8@gmail.com">
     <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
-<br><br>|
+<br>|
 
 ⭐️ From [ricardosilva1998](https://github.com/ricardosilva1998)
