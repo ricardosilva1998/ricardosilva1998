@@ -10,7 +10,7 @@
 
 <img align="right" width="200" height="161" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="24px">
 
-I am an Computer Science Bachelor pursuing Front-end Development. Always willing to learn and implement. Proficient in Javascript, CSS, HTML. Have an experience in the fields of Web Development and Web Design, Android Development and Video Editing. <br /><br />
+I am an Computer Science Bachelor pursuing Frontend Development. Always willing to learn and implement. Proficient in Javascript, CSS, HTML. Have an experience in the fields of Web Development and Web Design, Android Development and Video Editing. <br /><br />
 
 
 &nbsp; &nbsp; *[View My CV](https://www.linkedin.com/in/ricardosilva98/)*
