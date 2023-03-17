@@ -26,7 +26,7 @@ I am an Computer Science Bachelor pursuing Frontend Development. Always willing 
 <img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"> <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">
 <br />
 ### Other Languages & Tools I know
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"><img src = "https://img.shields.io/badge/Xampp-F37623?style=flat&logo=xampp&logoColor=white" >
+<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">  <img src = "https://img.shields.io/badge/Xampp-F37623?style=flat&logo=xampp&logoColor=white" >
 
 ## &#x1f4c8; GitHub Stats
 <img src="https://miro.medium.com/max/480/0*tWkX7jycteZn1qbC.gif" width="300px" height="195px" align="right"/>
